@@ -11,3 +11,7 @@ Currently Gravity is GVim only. I tend to use the default colours when in a term
 ## Install Details
 
 Just drop gravity.vim in to your ~/.vim/colors directory or ~/vimfiles/colors if on Windows.
+
+## Screenshot
+
+![Gravity Screenshot](http://www.gregsexton.org/images/gravity/clojure.jpg)
