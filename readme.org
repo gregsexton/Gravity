@@ -23,16 +23,16 @@ Just drop gravity.vim in to your ~/.vim/colors directory or
  [[http://www.gregsexton.org/images/gravity/clojure.jpg]]
 
 ** Haskell
- http:[[//www.gregsexton.org/images/gravity/haskell.jpg]]
+ [[http://www.gregsexton.org/images/gravity/haskell.jpg]]
 
 ** Html
- http:[[//www.gregsexton.org/images/gravity/html.jpg]]
+ [[http://www.gregsexton.org/images/gravity/html.jpg]]
 
 ** Java
- http:[[//www.gregsexton.org/images/gravity/java.jpg]]
+ [[http://www.gregsexton.org/images/gravity/java.jpg]]
 
 ** Objc
- http:[[//www.gregsexton.org/images/gravity/objc.jpg]]
+ [[http://www.gregsexton.org/images/gravity/objc.jpg]]
 
 ** Python
- http:[[//www.gregsexton.org/images/gravity/python.jpg]]
+ [[http://www.gregsexton.org/images/gravity/python.jpg]]
